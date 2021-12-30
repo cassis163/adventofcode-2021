@@ -1,3 +1,5 @@
+mod answers_2021;
+
 fn main() {
-    println!("Hello, world!");
+    answers_2021::day_2::solve();
 }
